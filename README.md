@@ -1,1 +1,1 @@
-# CV-Sofiia-Hradinarova-Front-end-ua
+# resume-en.github.io
